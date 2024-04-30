@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<order order-no="BFGP014DV-00002603">
+		<order-date>2024-04-22T01:01:01.00Z</order-date>
+		<modification>
+			<amount>100.00</amount>
+			<currency>SGD</currency>
+			<transaction-reference>WMSG5FHQGTGLNK82</transaction-reference>
+			<reason/>
+			<line-items>
+				<item>
+					<sku>1361808-979-SM</sku>
+					<qty>1</qty>
+					<refund-amount>100.00</refund-amount>
+				</item>
+			</line-items>
+		</modification>
+	</order>
+</orders>
